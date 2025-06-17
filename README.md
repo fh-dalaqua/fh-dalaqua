@@ -40,18 +40,52 @@ Eu me chamo Felipe Hernandes Dalaqua, tenho 20 anos e atualmente resido em Mogi 
     src="https://github.com/user-attachments/assets/6a6785cc-4577-4550-9170-339574957518">
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/74a596cb-8133-4c5b-bc12-4bf9814d261f">
   <img 
     align="left" 
-    alt="HTML"
-    title="HTML"
+    alt="JAVA"
+    title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/9d61644e-0a05-4141-91cf-f72e6a6fd923">
+<img 
+    align="left" 
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/4a13b240-66ed-4b24-b9b2-dc4e5b2f02ab">
+<img 
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/a9816998-51e4-4b78-b0ed-4d3620527743">
 
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fh-dalaqua&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh-dalaqua&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
