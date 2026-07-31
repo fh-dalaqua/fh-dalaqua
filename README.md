@@ -69,24 +69,3 @@ Eu me chamo Felipe Hernandes Dalaqua, tenho 20 anos e atualmente resido em Mogi 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fh-dalaqua&show_icons=true&theme=tokyonight&locale=pt-br&random=98765" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh-dalaqua&theme=tokyonight&hide=html,css&layout=compact&random=98765"
-  />
-
-</p>
