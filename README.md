@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas Freelancer`**
 
-Eu me chamo Felipe Hernandes Dalaqua, tenho 20 anos e atualmente resido em Mogi das Cruzes, São Paulo. Concluí o ensino médio no Colégio Atheneu em Itaquaquecetuba. Atualmente, estou cursando Engenharia da Computação na USJT. Sou apaixonada por tecnologia com foco em desenvolvimento de software e resolução de problemas.
+Eu me chamo Felipe Hernandes Dalaqua, tenho 20 anos e atualmente resido em São Paulo. Concluí o ensino médio no Colégio Atheneu em Itaquaquecetuba. Atualmente, estou cursando Engenharia da Computação na USJT. Sou apaixonada por tecnologia com foco em desenvolvimento de software e resolução de problemas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/felipe-hernandes/">
